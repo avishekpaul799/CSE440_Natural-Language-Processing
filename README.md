@@ -19,7 +19,7 @@ Jupyter Notebook for clarity and reproducibility.
 
 ## Repository Structure
 
-    CSE440-Natural-Language-Processing/
+    CSE440-Natural-Language-Processing
     ├── cse440project.ipynb
     ├── trainingData.csv
     ├── CSE440 Group 16 Report.pdf
