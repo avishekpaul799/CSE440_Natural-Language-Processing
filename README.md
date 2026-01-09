@@ -94,8 +94,8 @@ experiments, and results is provided in:
 
 ## Course Information
 
--   Course: CSE440 -- Natural Language Processing\
--   Group: 16\
+-   Course: CSE440 -- Natural Language Processing
+-   Group: 16
 -   Type: Academic Course Project
 
 ------------------------------------------------------------------------
