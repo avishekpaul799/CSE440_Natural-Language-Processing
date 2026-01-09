@@ -25,30 +25,30 @@ Jupyter Notebook for clarity and reproducibility.
     ├── CSE440 Group 16 Report.pdf
     └── README.md
 
--   `cse440project.ipynb` -- Main implementation notebook\
--   `trainingData.csv` -- Dataset used for training and testing\
+-   `cse440project.ipynb` -- Main implementation notebook
+-   `trainingData.csv` -- Dataset used for training and testing
 -   `CSE440 Group 16 Report.pdf` -- Final project report
 
 ------------------------------------------------------------------------
 
 ## Concepts and Techniques Used
 
--   Text cleaning and preprocessing\
--   Tokenization and normalization\
--   Stopword removal\
--   Feature extraction from text\
--   Machine learning models for NLP tasks\
+-   Text cleaning and preprocessing
+-   Tokenization and normalization
+-   Stopword removal
+-   Feature extraction from text
+-   Machine learning models for NLP tasks
 -   Model evaluation and analysis
 
 ------------------------------------------------------------------------
 
 ## Tools and Libraries
 
--   Python 3\
--   Jupyter Notebook\
--   NLTK\
--   Pandas\
--   NumPy\
+-   Python 3
+-   Jupyter Notebook
+-   NLTK
+-   Pandas
+-   NumPy
 -   Scikit-learn
 
 ------------------------------------------------------------------------
@@ -109,5 +109,5 @@ course.
 ------------------------------------------------------------------------
 
 ## Acknowledgements
--   NLTK and Scikit-learn documentation\
+-   NLTK and Scikit-learn documentation
 -   Open-source NLP community
